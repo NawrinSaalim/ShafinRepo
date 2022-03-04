@@ -1,5 +1,8 @@
 print("Hello World!")
 print("I love you")
-a = 10
-b = 20
+a = 20
+b = 10
 print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
