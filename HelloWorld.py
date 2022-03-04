@@ -1,5 +1,7 @@
 print("Hello World!")
 print("I love you")
+message = "I love you so much"
+print(message)
 a = 20
 b = 10
 print(a + b)
